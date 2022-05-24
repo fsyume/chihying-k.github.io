@@ -402,8 +402,10 @@ footer:
   owner:
     enable: true
     since: 2021
-  custom_text:  
-    <a  href="https://beian.miit.gov.cn/"><span>豫ICP备2020026923号-3</span></a>
+  custom_text:
+    <a href="https://www.upyun.com/"><span>本网站由<img src="https://cos.blog.fsyume.com/my/upyun_logo5.png" style="height:30px;position:relative;top:9px;background-color:rgb(255,255,255,0.5);">提供CDN加速/云存储服务</span></a>  
+    <br>
+    <a href="https://beian.miit.gov.cn/"><span>豫ICP备2020026923号-3</span></a>
   copyright: true # Copyright of theme and framework
 
 # Analysis
