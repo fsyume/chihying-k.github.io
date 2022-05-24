@@ -118,3 +118,10 @@ theme: butterfly
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: ''
+
+# 搜索插件
+search:
+  path: search.xml
+  field: post
+  content: true
+
