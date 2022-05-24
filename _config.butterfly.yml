@@ -53,7 +53,7 @@ algolia_search:
 local_search:
   enable: true
   preload: true
-  CDN:
+  CDN: https://cos.blog.fsyume.com/js/butterfly%404.2.2/local-search.min.js
 
 # Math (數學)
 # --------------------------------------
@@ -853,7 +853,7 @@ CDN:
     main: https://cos.blog.fsyume.com/js/butterfly%404.2.2/main.min.js
     utils: https://cos.blog.fsyume.com/js/butterfly%404.2.2/utils.min.js
     # translate:
-    # local_search:
+    local_search: https://cos.blog.fsyume.com/js/butterfly%404.2.2/local-search.min.js
     # algolia_js:
     # algolia_search_v4:
     # instantsearch_v4:
