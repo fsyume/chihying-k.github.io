@@ -1,0 +1,4 @@
+---
+title: link
+type: "link"
+---
