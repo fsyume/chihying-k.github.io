@@ -53,7 +53,7 @@ algolia_search:
 local_search:
   enable: true
   preload: true
-  CDN: https://cos.blog.fsyume.com/js/butterfly%404.2.2/local-search.min.js
+  CDN:
 
 # Math (數學)
 # --------------------------------------
@@ -401,7 +401,7 @@ crisp:
 footer:
   owner:
     enable: true
-    since: 2021
+    since: 2020
   custom_text:
     <a href="https://www.upyun.com/"><span>本网站由<img src="https://cos.blog.fsyume.com/my/upyun_logo5.png" style="height:30px;position:relative;top:9px;background-color:rgb(255,255,255,0.5);">提供CDN加速/云存储服务</span></a>  
     <br>
@@ -677,7 +677,7 @@ busuanzi:
 # Formal: Month/Day/Year Time or Year/Month/Day Time
 runtimeshow:
   enable: true
-  publish_date: 2021-04-26 22:41:43
+  publish_date: 2020-08-01
 
 # Aside widget - Newest Comments
 newest_comments:
@@ -843,17 +843,17 @@ CDN:
   # The CDN provider of internal scripts (主題內部 js 的 cdn 配置)
   # option: local/jsdelivr
   # Dev version cannot choose jsdelivr (dev版的主題不能設置為 jsdelivr)
-  internal_provider: jsdelivr
+  internal_provider: local
   # The CDN provider of third party scripts (第三方 js 的 cdn 配置)
   # option: local/jsdelivr
   # when set it to local, you need to install hexo-butterfly-extjs
   third_party_provider: local
   option:
     # main_css:
-    main: https://cos.blog.fsyume.com/js/butterfly%404.2.2/main.min.js
-    utils: https://cos.blog.fsyume.com/js/butterfly%404.2.2/utils.min.js
+    #main: 
+    #utils:
     # translate:
-    local_search: https://cos.blog.fsyume.com/js/butterfly%404.2.2/local-search.min.js
+    #local_search: 
     # algolia_js:
     # algolia_search_v4:
     # instantsearch_v4:

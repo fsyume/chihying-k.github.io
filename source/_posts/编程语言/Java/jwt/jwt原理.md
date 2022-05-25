@@ -5,8 +5,8 @@ categories:
 tags: JWT
 description: JWT原理
 abbrlink: d713
-date: 2021-03-01 00:00:00
-updated: 2021-03-01 00:00:00
+date: 2021-03-01
+updated: 2021-03-01
 sticky:
 ---
 # JWT
