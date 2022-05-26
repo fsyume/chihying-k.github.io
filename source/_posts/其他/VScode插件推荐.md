@@ -9,7 +9,6 @@ categories: 其他
 keywords: 'VSCode,插件'
 description: Markdown插件代替Typora
 abbrlink: c933
-sticky:
 ---
 
 > Typora收费了，三台设备89元，但是还是可以用老版本，就是没有免费更新了

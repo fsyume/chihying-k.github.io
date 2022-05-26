@@ -19,7 +19,7 @@ sticky:
 [Github项目地址](https://github.com/dbeaver/dbeaver)
 支持多种数据库
 
-![](https://cdn.jsdelivr.net/gh/kzycn/cdn/img/20220119210827.png)
+![](https://cos.blog.fsyume.com/blog-pic/202205261350789.png)
 
 ## 安装
 在仓库的Releases处下载你对应的系统版本，默认配置安装即可

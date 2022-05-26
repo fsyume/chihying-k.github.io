@@ -18,17 +18,17 @@ sticky:
 ## 下载地址
 [MySQL安装包下载📄](https://downloads.mysql.com/archives/installer/)
 
-![](https://cdn.jsdelivr.net/gh/kzycn/cdn/img/20220119200347.png)
+![](https://cos.blog.fsyume.com/blog-pic/202205261342448.png)
 
 ## 安装
 双击打开安装包
 只需要仅安装MySQL服务即可
-![](https://cdn.jsdelivr.net/gh/kzycn/cdn/img/20220119204457.png)
+![](https://cos.blog.fsyume.com/blog-pic/202205261342862.png)
 然后下一步即可
 这里选第一个即可
-![](https://cdn.jsdelivr.net/gh/kzycn/cdn/img/20220119204931.png)
+![](https://cos.blog.fsyume.com/blog-pic/202205261343990.png)
 这里设置你的root密码
-![](https://cdn.jsdelivr.net/gh/kzycn/cdn/img/20220119205052.png)
+![](https://cos.blog.fsyume.com/blog-pic/202205261343269.png)
 之后都是默认配置一直下一步即可
 
 这样你电脑的mysql就安装成功了

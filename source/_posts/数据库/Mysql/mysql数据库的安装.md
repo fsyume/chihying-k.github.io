@@ -13,19 +13,19 @@ abbrlink: 3d63
 sticky:
 ---
 
-<p class="note note-danger">警告：您可以在本博客 数据库 MySQL 分类下找到简单的安装包安装版本，更适合小白，此篇文章适合喜好折腾的大佬<p>
+<span color="red">警告：您可以在本博客 数据库 MySQL 分类下找到简单的安装包安装版本，更适合小白，此篇文章适合喜好折腾的大佬<span>
 
-# 安装
+## 安装
 
 1. 百度MySQL
 2. [社区版MySQL安装地址](https://dev.mysql.com/downloads/mysql/)
 
 
-# 配置环境变量
+## 配置环境变量
 1. 将下载好的MySQL数据库压缩文件，解压到任意磁盘分区内。
 2. 跟Java一样在MySQL使用之前要配置系统环境变量
 <!--more-->
-![](https://gitee.com/kzycn/picCloud/raw/master/2020/20201124165600.png)
+![](https://cos.blog.fsyume.com/blog-pic/202205261344883.png)
 
 下载完后，我们将 zip 包解压到相应的目录，这里我将解压后的文件夹放在 ` C:\MySQL` 下。
 
@@ -82,7 +82,7 @@ default-storage-engine=INNODB
 
 
 
-# 登录 MySQL
+## 登录 MySQL
 当 MySQL 服务已经运行时, 我们可以通过 MySQL 自带的客户端工具登录到 MySQL 数据库中, 首先打开命令提示符, 输入以下格式的命名:
 
 ```mysql -h 主机名 -u 用户名 -p```
@@ -103,7 +103,7 @@ default-storage-engine=INNODB
 若密码存在, 输入密码登录, 不存在则直接按回车登录。登录成功后你将会看到 `Welcome to the MySQL monitor...` 的提示语。
 
 然后命令提示符会一直以` mysq> `加一个闪烁的光标等待命令的输入, 输入` exit `或` quit` 退出登录。
-# 修改root密码
+## 修改root密码
 ```sql
 ALTER user 'root'@'localhost' IDENTIFIED BY 'newpassword';
 ```

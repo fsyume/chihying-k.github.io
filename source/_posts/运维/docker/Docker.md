@@ -14,15 +14,14 @@ updated: 2020-12-12 00:00:00
 sticky:
 ---
 
-# Docker
-
-# Docker安装
+## Docker安装
 
 [Docker官方文档](https://docs.docker.com/get-docker/)
 
 ## CentOS下安装
 
 ### 更新yum包
+
 <!--more-->
 ```shell
 sudo yum update
