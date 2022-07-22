@@ -284,6 +284,12 @@ disqusjs:
   apikey:
   option:
 
+# Remark42
+# https://remark42.com/docs/configuration/frontend/
+remark42:
+  host: # Your Host URL
+  siteId: # Your Site ID
+
 # livere (來必力)
 # https://www.livere.com/
 livere:
@@ -626,7 +632,10 @@ aside:
   button: true
   mobile: true # display on mobile
   position: right # left or right
-  archives: true
+  display:
+    archive: true
+    tag: true
+    category: true
   card_author:
     enable: true
     description:
@@ -840,6 +849,8 @@ inject:
 # Don't modify the following settings unless you know how they work
 # 非必要請不要修改
 CDN:
+  version: false
+  custom_format:
   # The CDN provider of internal scripts (主題內部 js 的 cdn 配置)
   # option: local/jsdelivr
   # Dev version cannot choose jsdelivr (dev版的主題不能設置為 jsdelivr)
