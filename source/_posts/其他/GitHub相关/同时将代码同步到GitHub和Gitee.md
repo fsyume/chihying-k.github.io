@@ -2,8 +2,7 @@
 title: 同时将代码同步到GitHub和Gitee
 date: 2021-3-14
 updated: 2021-3-14
-categories: 
-  - GitHub
+categories: GitHub
 tags:
   - GitHub
   - 代码同步

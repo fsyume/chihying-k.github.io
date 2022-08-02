@@ -4,6 +4,7 @@ date: 2020-8-1
 updated: 2020-8-1
 categories: Python
 tags:
+  - 编程语言
   - Python
   - 小程序
 description: 通过Python和BilibiliAPI来获取B站账户UID和粉丝数

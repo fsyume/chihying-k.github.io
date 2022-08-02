@@ -2,9 +2,7 @@
 title: MySQL数据库的安装（手动版本）
 date: 2020-9-17
 update: '2022-1-19 15:30'
-categories:
-  - 数据库
-  - MySQL
+categories: 数据库
 tags:
   - MySQL
   - 数据库安装

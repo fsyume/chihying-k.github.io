@@ -2,8 +2,7 @@
 title: Github访问问题
 date: 2021-3-14
 updated: 2021-3-14
-categories: 
-    - GitHub
+categories: GitHub
 tags: GitHub
 keywords: GitHub
 description: Github访问问题解决方法

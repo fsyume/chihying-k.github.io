@@ -2,9 +2,10 @@
 title: MVC三层架构
 date: 2020-8-1
 updated: 2020-8-1
-categories:
+categories: Java
+tags: 
   - Java
-tags: MVC
+  - MVC
 keywords: 'Java,MVC开发模式'
 description: MVC三层架构
 abbrlink: '7676'

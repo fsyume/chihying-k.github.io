@@ -2,10 +2,11 @@
 title: Spring框架
 date: 2020-8-1
 updated: 2020-8-1
-categories:
+categories: Java
+tags: 
+  - 编程语言
   - Java
   - Spring
-tags: Spring
 description: Spring框架
 abbrlink: '6214'
 ---

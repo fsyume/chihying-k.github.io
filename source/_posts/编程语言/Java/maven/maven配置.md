@@ -2,9 +2,11 @@
 title: maven配置
 date: 2020-9-17
 updated: 2020-9-17
-categories:
+categories: Java
+tags: 
+  - 编程语言
   - Java
-tags: Maven
+  - Maven
 keywords: 'Java,Maven'
 description: maven配置
 abbrlink: f520

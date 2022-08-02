@@ -2,9 +2,7 @@
 title: 数据库可视化工具DBeaver
 date: '2022-1-19 15:30'
 update: '2022-1-19 15:30'
-categories:
-  - 数据库
-  - 数据库管理工具
+categories: 数据库
 tags:
   - MySQL
   - 数据库可视化工具

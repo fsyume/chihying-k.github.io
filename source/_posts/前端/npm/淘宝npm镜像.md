@@ -1,8 +1,6 @@
 ---
 title: 淘宝npm镜像
-categories:
-  - 前端
-  - npm
+categories: 前端
 tags:
   - npm
   - npm镜像

@@ -1,8 +1,10 @@
 ---
 title: JWT原理
-categories:
+categories: Java
+tags: 
+  - 编程语言 
   - Java
-tags: JWT
+  - JWT
 description: JWT原理
 abbrlink: d713
 date: 2021-03-01

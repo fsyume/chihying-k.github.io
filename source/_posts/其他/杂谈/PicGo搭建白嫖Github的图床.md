@@ -3,7 +3,9 @@ title: PicGo搭建白嫖Github的图床
 date: '2022-1-16 21:00'
 updated: '2022-1-16 21:00'
 categories: 其他
-tags: PicGo搭建白嫖Github的图床
+tags: 
+ - 图床
+ - PicGo
 description: PicGo搭建白嫖Github的图床
 abbrlink: '1860'
 sticky:

@@ -2,12 +2,12 @@
 title: Springboot实现邮件发送
 date: 2021-1-30
 updated: 2021-1-30
-categories:
+categories: Java
+tags:
+  - 编程语言
   - Java
   - Spring
-tags:
-  - Spring
-  - Springboot
+  - SpringBoot
 description: Springboot实现邮件发送
 abbrlink: 767f
 sticky:
