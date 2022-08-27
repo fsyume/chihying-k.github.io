@@ -643,7 +643,7 @@ aside:
       enable: true
       icon: fab fa-github
       text: Follow Me
-      link: https://github.com/Chihying-K
+      link: https://github.com/fsyume
   card_announcement:
     enable: true
     content: There's a path for everyone
