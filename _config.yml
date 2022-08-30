@@ -117,7 +117,9 @@ theme: butterfly
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: ''
+  type: git
+  repo: https://github.com/fsyume/chihying-k.github.io.git
+  branch: static
 
 # 搜索插件
 search:
