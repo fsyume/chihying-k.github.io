@@ -1,8 +1,9 @@
 ---
 title: 关于
 ---
+大名Chihying Kung
 - 摸鱼Coder
-- 老二刺螈喜欢漂亮的插画
+- 喜欢插画的老二刺螈
 - 开发菜鸡罢了~
 
 > Email: 

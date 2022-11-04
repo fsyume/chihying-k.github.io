@@ -1,9 +1,9 @@
-- class_name: 友情链接
-  class_desc: 那些人，那些事
+- class_name: 友情链接「添加友链请发邮件到：cyk@fsyu.me」
+  class_desc: 那些人，那些事 
   link_list:
     - name: 青叶雨 Aobayu's Blog
       link: https://www.aobayu.cn/
-      avatar: https://s1.328888.xyz/2022/08/05/jRwds.webp
+      avatar: https://image.aobayu.cn/images/head.jpg
       descr: 三无青年 略知一二 文采有限 率性而言 
 - class_name: 感谢这些好用的框架
   link_list:

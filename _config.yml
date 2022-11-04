@@ -3,11 +3,11 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 浮生Yume's Blog
+title: Fs_Yume's Blog
 subtitle: ""
 description: ''
 keywords:
-author: 浮生Yume
+author: Chihying
 language: zh-CN
 timezone: ''
 
@@ -118,7 +118,7 @@ theme: butterfly
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: https://github.com/fsyume/chihying.github.io.git
+  repo: https://github.com/fsyume/fsyume.github.io.git
   branch: static
 
 # 搜索插件
