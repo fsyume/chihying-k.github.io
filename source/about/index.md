@@ -6,7 +6,6 @@ title: 关于
 - 开发菜鸡罢了~
 
 > Email: 
-> - hi@fsyume.com
 > - hi@fsyu.me
 >
 > Link:
