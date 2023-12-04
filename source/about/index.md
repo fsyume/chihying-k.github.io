@@ -9,5 +9,6 @@ title: 关于
 > - hi@fsyu.me
 >
 > Link:
-> - [https://fsyu.me/bilibili](http://fsyu.me/bilibili)
-> - [https://fsyu.me/github](http://fsyu.me/github)
+> - [B站主页 fsyu.me/bilibili](http://fsyu.me/bilibili)
+> - [Steam主页 fsyu.me/steam](http://fsyu.me/steam)
+> - [Github地址 fsyu.me/github](http://fsyu.me/github)
