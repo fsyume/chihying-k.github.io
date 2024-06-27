@@ -8,8 +8,8 @@ tags:
   - SSH
 description: 为本地git配置代理
 abbrlink: 1c4b584d
-date:
-updated:
+date: 2024-04-27 00:00:00
+updated: 
 sticky:
 ---
 
