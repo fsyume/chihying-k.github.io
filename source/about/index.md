@@ -4,6 +4,7 @@ title: 关于
 - 摸鱼Coder
 - 喜欢插画的老二刺螈
 - 开发菜鸡罢了~
+- 狒P
 
 > Email: 
 > - hi@fsyu.me
